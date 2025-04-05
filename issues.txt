@@ -1,0 +1,10 @@
+
+
+so understand the code whats happening so u could get answers probably
+
+to do 
+- git clone if one problem solves 
+problems
+1. the camera window should close know how to close it
+2. audio be coming know what effects that 
+3. if audio comes for the correct code correct audio is coming or not check that 
