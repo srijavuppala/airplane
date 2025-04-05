@@ -32,13 +32,8 @@ Follow these steps to get Air-Piano running on your system:
     *   Python 3.8 or later installed.
     *   A webcam connected to your computer.
 
-**2. Clone or Download:**
-    *   Get the project files:
-        ```bash
-        git clone https://github.com/srijavuppala/airplane.git
-        
-        ```
-    
+**2. Clone or Download:**        
+       *    git clone https://github.com/srijavuppala/airplane.git
 **3. Install Dependencies:**
 
     *    pip install -r requirements.txt
