@@ -35,17 +35,12 @@ Follow these steps to get Air-Piano running on your system:
 **2. Clone or Download:**
     *   Get the project files:
         ```bash
-        git clone 
+        git clone https://github.com/srijavuppala/airplane.git
         
         ```
-    *   Or download the source code archive and extract it.
-
+    
 **3. Install Dependencies:**
 
-    *   Install the required libraries:
-        ```bash
-        pip install opencv-python pygame cvzone mediapipe
-        ```
     *    pip install -r requirements.txt
 
 **4. Configure MIDI Output (Crucial Step, especially on macOS):**
